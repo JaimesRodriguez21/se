@@ -5,7 +5,7 @@
 
 #### Instalar dependencias
 
-`$ npm install `  para instalar dependecias 
+`$ npm install ` 
 
 
 #### Configurar variable de entorno
